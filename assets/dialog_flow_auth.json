@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "takafulagent-uyc9",
+  "private_key_id": "260cf07baf6d354f0584ec78df08517255a76478",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDOJn1q2Tmiw597\nkmqNe3y9y272G2yF+qRxrO7h/mDC/rLUH6u3EmGc6zzrExDEE7NUs2fHu+kcmvad\nE2qAPBdAhT346O4Z9aAwpSaj06soCccgAAFnlP4pvojv1kLAET4E0qECaSRLZjai\npc2TkYjaHFPJ0GNgjpxvszIazyvrP45mkKXVuNiboiC8Wj/74bepJwN60ZkfXwQg\nQDIiS4E65GeMlbDxIUxHTz32vf7cA/IgJAGYzwkPdXf9S9JftvqH5Pac3+4Y5Qvy\n2rfQx0ZQvzdrEUZ8hE0PpjQvKJ2ubad8sxDvJVManTVkrY2IyebbR10tp2U155nB\nwDTxVASvAgMBAAECggEAUcH7GI6pKI+r5v7FCnKQoNcXHTz4F9S1Ni4vGWrg5kTM\nGIus9vCvzOOQp+xKSHFFvJBgVtsEEye0Kcyi/tOWJy0QzHBYyevbyZ8eCXgvl7P1\nCJBn/jQdbuHVfkT7+R99eL0uRP38+nhBr9TRCLb9zv7QDih62TcF/NjVRMOoN+Yo\nk60MOO9aNaj/jh2JyEGUEChGzHPkm4YogHjw7BsR71Qec56QRxs+TlqO6eetDmEF\nUJ7hM2aSxgMC3gPrizyhxnsRqVoAZUHBskLC+x/N5Kw2P1AY2D5GMKWvh4QSS4pY\nkBQkbIAXw1WyMxsGvyrSeD/vTYih7TPy/y7hNuvV2QKBgQD5lo+vpMFEZ8E4MqUT\n9Jvz6KjXhA+nBUedD8UID+WPO9FD4YLZG+Vet2qcd8V+mK17oDHFXW7U3Jf3Cujv\n5QVPOlnPudGVkLtZE3V2zoxrXeQX9p6RPF1ctu1YvQLP817VNFQFuRHHcJUUI+db\nU28rfV29CGWnERZrFYq/CQJ7pwKBgQDTckGVnQigc0HZQ+3MCxmyBpFb1uXdpAJz\n5ZZwNDEGMs2a26zZUs21nJwmzr/vu5fJda0kyGG0R3PbB2gsV9XZx+70Rtaj6Bbg\nhPbC43t2Sczd32EcTR4dTggl2dsMet4+SCXLVi4i4yOKVUD1ziMhfooip6xJ6vua\nAoZoniMvuQKBgQDXg8jCtBMmjCjt691bY+aeMJJKtoAFiquR1aIfGgrxKYfDg6DG\n9C2VIe/u+AUTEacLjwIrGEixiWG3MjZ9n1Z8WThgBGYTLgx4GDNfyW667zIb9xpo\n8qTzgAlmjJ83DUEf/LVo06ukeXRhFbeaxmrCNNiSeAO+xSSEhu9tkcwRFQKBgE19\nqA9+t3SmCNHpFTMcNlSKF6eCwEdUHhn/X/zLA9Rzteo068nRkNYoCQon5yuiomQQ\nnl3GmhgJv6nbsw/dOOBRZ39anrr/CbNKx2xxFgQp08zUWrCWipzOximpB6AxP1Wv\n9znn4YyjlZjS2bW70CAsUc+Vh4ync4HjvwKEQfzxAoGBAKw/tCXzr5n0Lh64CjQX\n+ma9gamg0yq2IxHAOKkyDF501CGnB2L9f4i6rflMpot9Qfne9Z0mypXd9lhjfWpb\nmvKQTFxW1RemPzsxZmYZ6Kmp0RWsb8zBnYQGUemhutym01iJSZUPuiyX9Pu6POQl\nAcMFjC5MCB1ge7av8FdXeoT8\n-----END PRIVATE KEY-----\n",
+  "client_email": "takafulservices@takafulagent-uyc9.iam.gserviceaccount.com",
+  "client_id": "101185956228085872790",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/takafulservices%40takafulagent-uyc9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
