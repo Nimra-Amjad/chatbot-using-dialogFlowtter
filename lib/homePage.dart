@@ -27,7 +27,7 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         title: const Text("AMBot"),
       ),
-      body: Container(
+      body: SizedBox(
         child: Column(
           children: [
             Expanded(child: Messages(messages: messages)),
@@ -39,14 +39,17 @@ class _HomePageState extends State<HomePage> {
                   Expanded(
                       child: TextField(
                     controller: controller,
-                    style: const TextStyle(color: Colors.black),
+                    style: const TextStyle(color: Colors.white),
                   )),
                   IconButton(
                       onPressed: () {
                         sendMessage(controller.text);
                         controller.clear();
                       },
-                      icon: const Icon(Icons.send))
+                      icon: const Icon(
+                        Icons.send,
+                        color: Colors.white,
+                      ))
                 ],
               ),
             )
